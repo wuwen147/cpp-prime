@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "cstdio": "cpp",
+        "sstream": "cpp",
+        "fstream": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "cstddef": "cpp",
+        "atomic": "cpp",
+        "compare": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "xhash": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp"
+    }
+}
