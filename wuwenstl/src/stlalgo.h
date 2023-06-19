@@ -171,6 +171,7 @@ namespace stlalgo
 
     }
     //search_n,用于在指定区域内查找第一个符合要求的子序列,查找的只能是包含多个相同元素的子序列。
+    
 }
 
 #ifdef _MSC_VER
